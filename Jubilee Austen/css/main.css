@@ -24,6 +24,10 @@ p {
     background-position: center;
     height: 800px;
 }
+.top-header {
+    display: flex;
+    justify-content: space-between;
+}
 header h1 {
     float: left;
     width: 300px;
